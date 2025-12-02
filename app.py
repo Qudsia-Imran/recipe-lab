@@ -398,7 +398,8 @@ with tab2:
 st.markdown("---")
 st.markdown("""
     <div style='text-align: center; color: #666; padding: 2rem;'>
-        <p>🤖 Powered by Google Gemini AI | Made by Qudsia❤ using Streamlit</p>
+        <p>| Made by Qudsia❤</p>
         <p style='font-size: 0.9rem;'>Transform your cooking experience with AI-generated recipes!</p>
     </div>
+
 """, unsafe_allow_html=True)
